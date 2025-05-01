@@ -1,5 +1,3 @@
-Qubika Sports Club Management - Automated Testing Suite
-
 Project Description:
 This repository contains an end-to-end automated test suite for the Qubika Sports Club Management System. It utilizes Playwright and TypeScript to automate both API and UI workflows within the same test. 
 
